@@ -9,8 +9,8 @@ import javafx.scene.layout.FlowPane;
 import javafx.geometry.Pos;
 import javafx.scene.image.Image;
 /**
- * static class used to display a message on the screen using
- * the display static method.
+ * static class used to display a message or prompt the user for a confirmation. A javafx thread must be 
+ * running in order to use this class.
  * 
  * @author Elvin Torres
  * @version 1.0
